@@ -1,0 +1,7 @@
+D:\Projects\31.1\bin\Debug\31.1.exe.config
+D:\Projects\31.1\bin\Debug\31.1.exe
+D:\Projects\31.1\bin\Debug\31.1.pdb
+D:\Projects\31.1\obj\Debug\31.1.csproj.AssemblyReference.cache
+D:\Projects\31.1\obj\Debug\31.1.csproj.CoreCompileInputs.cache
+D:\Projects\31.1\obj\Debug\31.1.exe
+D:\Projects\31.1\obj\Debug\31.1.pdb
